@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="20.0.0"
+        sha1="5faa2bcd29f9028b44951a57b3ea0f9c0a2886e7">
+        <dex dex="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c3538af7100b9415980cdde84141ab3332fc8eba.jar" />
+    </item>
+    <item
+        jar="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="20.0.0"
+        sha1="f958111df076af1d2f3a5b0b7ae66451caa95e89">
+        <dex dex="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/pre-dexed/debug/instant-run_570d53018f6b474be6bf44736f3268e51e96bb80.jar" />
+    </item>
+    <item
+        jar="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="20.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_39ee8580af9acc78d79364986f749aebff14f359.jar" />
+    </item>
+    <item
+        jar="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="20.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_7cc43d4b8f77694d9ba6a4c85330ff181d92043c.jar" />
+    </item>
+    <item
+        jar="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="20.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_6a46bee3e570f15114e1489cc88da6be9a87b766.jar" />
+    </item>
+    <item
+        jar="/Users/alaaelias/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="20.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/alaaelias/Documents/repo/DictionaryProvider/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_eba4a2288b323aaacc5cf8903ce853fd170e9e03.jar" />
+    </item>
+
+</items>
